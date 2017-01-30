@@ -7,7 +7,7 @@ A basic, cross-platform `Plone <https://plone.org>`_ buildout.
 Documentation
 =============
 
-Full documentation for end users can be found in the `"docs" <docs/index>`_ folder.
+Full documentation for end users can be found in the `"docs" <docs/index.rst>`_ folder.
 
 Contribute
 ==========
