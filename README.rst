@@ -4,11 +4,10 @@ Plone Example Buildout
 
 A basic, cross-platform `Plone <https://plone.org>`_ buildout.
 
-
 Documentation
 =============
 
-Full documentation for end users can be found in the :doc:`"docs" </docs>`- folder.
+Full documentation for end users can be found in the `"docs" <docs/index>`_ folder.
 
 Contribute
 ==========
